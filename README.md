@@ -50,6 +50,6 @@ Same pattern as previous projects: one Render Docker web service + a free MongoD
 
 **Render:** https://boutique-market-k7m7.onrender.com  
 **Dashboard:** https://dashboard.render.com/web/srv-da19cevqj5pc73cid58g  
-**GitHub:** https://github.com/SatishKallepalli-KSO/boutique-market
+**GitHub:** https://github.com/anusha-payidiparthi/boutique-market
 
 Paste `MONGODB_URI` (Atlas M0) in the Render dashboard — same role Neon played on earlier sites — then the shop will stay up.
